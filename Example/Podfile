@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WYDUIKit_Example' do
+  pod 'WYDUIKit', :path => '../'
+
+  target 'WYDUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
