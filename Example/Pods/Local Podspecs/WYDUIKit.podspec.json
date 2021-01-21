@@ -1,0 +1,22 @@
+{
+  "name": "WYDUIKit",
+  "version": "0.0.1",
+  "summary": "WYDUIKit",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongchenqiliang/WYDUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyudong": "ext.wangyudong@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/hongchenqiliang/WYDUIKit.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WYDUIKit/Classes/**/*"
+}

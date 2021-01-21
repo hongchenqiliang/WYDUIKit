@@ -1,0 +1,6 @@
+framework module WYDUIKit {
+  umbrella header "WYDUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

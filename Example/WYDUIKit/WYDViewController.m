@@ -7,7 +7,7 @@
 //
 
 #import "WYDViewController.h"
-
+#import <WYDTestTools.h>
 @interface WYDViewController ()
 
 @end
@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    [WYDTestTools test];
 }
 
 - (void)didReceiveMemoryWarning
